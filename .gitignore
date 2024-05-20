@@ -1,0 +1,4 @@
+iris_env/
+agenda/__pycache__/
+agenda/components/__pycache__/
+agenda/constructors/__pycache__/

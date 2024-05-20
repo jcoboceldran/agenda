@@ -1,0 +1,44 @@
+
+html {
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;  
+    font-size: 14pt;
+    font-weight: 500;
+    color: #000063d8;
+    font-style: normal;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+body {
+    padding-left: 16vw;
+    padding-right: 16vw;
+    padding-top: 8vh;
+    padding-bottom: 4vh;
+}
+
+h1 {
+    font-size: 36pt;
+    font-weight: 800;
+}
+
+h2 {
+    font-size: 24pt;
+    font-weight: 700;
+}
+
+img {
+    max-width: 80vw;
+    max-height: 50vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
