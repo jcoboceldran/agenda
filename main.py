@@ -1,6 +1,5 @@
 import pandas as pd
 from sklearn.datasets import load_iris
-
 from agenda import Agenda
 from agenda.components import Standard_scaler, Correlation_analysis, Random_forest
 
